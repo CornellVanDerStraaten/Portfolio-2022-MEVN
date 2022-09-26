@@ -30,3 +30,4 @@ client/*.sw?
 .idea
 
 api/node_modules
+api/config/database.ts
