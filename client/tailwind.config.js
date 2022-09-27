@@ -2,6 +2,7 @@
 module.exports = {
   content: [
     "./src/*/*.{js,ts,jsx,tsx,vue}",
+    "./src/*.{js,ts,jsx,tsx,vue}",
     "index.html",
   ],
   theme: {
@@ -9,7 +10,7 @@ module.exports = {
       colors: {
         'primary': '#03989E',
         'secondary': '#9E0903',
-      }
+      },
     },
   },
   plugins: [],
